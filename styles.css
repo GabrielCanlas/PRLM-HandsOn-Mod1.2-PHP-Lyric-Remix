@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  color: #333;
+  background: #fff;
+}
+
+h1, h2, h3 {
+  margin: 1rem 0;
+}
+
+h1 { 
+    font-size: 2rem; color: #1a237e; text-align: center; 
+}
+h2 { 
+    font-size: 1.5rem; color: #3949ab; text-align: center; 
+}
+h3 { 
+    font-size: 1.2rem; color: #1565c0; 
+}
+
+p { margin: 0.5rem 0; }
+
+.verse, .prechorus, .chorus, .outro {
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.chorus { 
+    font-weight: bold; 
+}
+
+em { 
+    color: #555; 
+}
+strong { 
+    color: #000; 
+}
