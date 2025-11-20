@@ -83,6 +83,8 @@ $outro = [
 <?php echo "<p><em>Mood: $mood</em></p>"; ?> 
 <?php echo "<p><strong>Total Sections:</strong> $totalSections</p>"; ?> 
 <?php echo "<p><strong>$chorusText</strong></p>"; ?> 
+<img src="balloons.jpg">
+
 
 <?php echo "<h3>Verse 1</h3><div class='verse'>"; ?> 
 <?php echo "<p>$verse1[0]</p>"; ?> 
